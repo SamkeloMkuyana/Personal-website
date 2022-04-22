@@ -1,0 +1,125 @@
+/*===============Basic css=============*/
+
+@import url("https://fonts.googleapis.com/css?Family=Arvo:700/Opens + Sans");
+html {
+overflow-x:hidden;
+{
+body { 
+background:  #fff;
+font-size: 14px;
+font-weight: 400;
+font-family: 'Open Sans', sans-serif;
+
+-webkit-box-sizing: boder-box;
+-moz-box-sizing: boder-box;
+-webkit-font-smoothing:subpixel-antialised;
+-color:  #abcae;
+
+line-height: 25px;
+-webkit-backface-visibilty:hidden;
+backface-visibilty: hidden
+Overflow-x: hidden;
+
+
+/*============= Hero Area =============*/
+ #hero-area 
+	  background-image : url(../img/image5.png);
+	  height:720px
+	  background-position:center center;
+	  background-repeat:no-repeat;
+	  background-size:cover;
+	  padding:100px 0080px;
+	  Overflow: hidden;
+	  position: relative;
+}
+
+# hero-area.contents.head-tittle{
+	color:  #ffffff;
+	font-size: 42px;
+	font-weightr: 700;
+	line-height: 60px;
+	margin-botton: 10px;
+}
+span{
+	color: #fd8d0efb;
+}
+.btn {
+	font-size: 14px
+	padding: 10px 30px;
+	cursor: pointer;
+	font-weight: 400;
+	color:  #fff;
+	border-radius: 30px;
+	transition: all 0.2s linear;
+	display:inline-blocks;
+}
+.btn-comon{
+background-color:  #f63854;
+position:relative;
+z-index:1;
+font-size: 17px;
+text-transform:uppercase;
+}
+.btn-boder {
+color:  #ff0163;
+background-color:transparent;
+font-size:17px;
+border-radius:30px;
+background:  #ffffff;
+text-transform:uppercase;
+}
+btn-boder:hover 
+{
+	color: #fff
+	border-color:  #f63854;
+	background-color:  #f63854;
+}
+
+.btn-common:hover {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	  
+	  
